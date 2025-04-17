@@ -1,0 +1,47 @@
+.notes-container {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background for readability */
+    color: #333; /* Standard text color */
+    border: 1px solid #ddd; /* Border around the entire container */
+    border-radius: 8px;
+  }
+  
+  .notes-container h1 {
+    color: #2c3e50; /* Dark blue for main header */
+    text-align: center;
+    border-bottom: 2px solid #00a8a8;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .notes-container h2 {
+    color: #00a8a8; /* Teal for section headers */
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .notes-container ul {
+    margin-left: 20px;
+  }
+  
+  .notes-container ul li {
+    margin: 10px 0;
+    padding: 5px 10px;
+    border-left: 3px solid #00a8a8; /* Left border for emphasis */
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .notes-container li strong {
+    color: #e74c3c; /* Red for highlighting important terms */
+  }
+  
+  .notes-container sub {
+    vertical-align: sub;
+    font-size: smaller;
+  }
+  
