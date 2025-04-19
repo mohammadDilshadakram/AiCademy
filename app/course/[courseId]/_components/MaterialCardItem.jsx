@@ -70,4 +70,4 @@ function MaterialCardItem({ item, studyTypeContent, course, refreshData }) {
   )
 }
 
-export default MaterialCardItem
+export default MaterialCardItem 
